@@ -21,6 +21,7 @@ Here are a few projects I've worked on:
 
 - [HestiaServe](https://github.com/lonecoder7/HestiaServe): A restaurant management system for efficient menu and order management.
 - [Ask_Rakna_AI](https://github.com/lonecoder7/Ask_Rakna_AI): An AI-powered question-answering system designed to provide quick and accurate responses to user queries.
+- [Gold Wings Academy webpage](https://github.com/lonecoder7/GWA):A professional webpage for gold wings academy
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions!
 
